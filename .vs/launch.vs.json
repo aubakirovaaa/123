@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Task7.exe (Task7\\Task7.exe)",
+      "name": "Task7.exe (Task7\\Task7.exe)"
+    }
+  ]
+}
