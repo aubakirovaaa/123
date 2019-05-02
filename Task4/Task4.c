@@ -10,7 +10,7 @@ void main()
 {
 	
 	setlocale(LC_ALL, "rus");
-    x = 5, y = 2;
+    x = 1, y = 1;
 	f();
 	printf("x = %.lf\r\ny = %.lf\r\n", x, y);
 	printf("f(x,y) = %lf\r\n", result);
@@ -27,5 +27,5 @@ void main()
 
 void f(void)
 {
-	result = sin(y + x) * sin(y - x);
+	result = pow(cos(x), 4) + pow(sin(x), 2) + (1 / 4)*pow(sin(2 * x), 2) - 1;
 }

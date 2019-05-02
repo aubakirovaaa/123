@@ -6,7 +6,7 @@ extern double f(double x, double y);
 void main()
 {
 	setlocale(LC_ALL, "rus");
-	int x = 5, y = 2;
+	int x = 1, y = 1;
 	printf("x = %d\r\ny = %d\r\n", x, y);
 	printf("f(x,y) = %f\r\n", f(x, y));
 	printf("Новое значение x:");

@@ -5,5 +5,5 @@
 
 void f(void)
 {
-	result = sin(y + x) * sin(y - x);
+	result = pow(cos(x), 4) + pow(sin(x), 2) + (1 / 4)*pow(sin(2 * x), 2) - 1;
 }

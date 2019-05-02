@@ -9,7 +9,7 @@ void main()
 {
 
 	setlocale(LC_ALL, "rus");
-	x = 5, y = 2;
+	x = 1, y = 1;
 	f();
 	printf("x = %.lf\r\ny = %.lf\r\n", x, y);
 	printf("f(x,y) = %lf\r\n", result);

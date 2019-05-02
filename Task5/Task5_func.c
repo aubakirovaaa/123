@@ -3,5 +3,5 @@
 
 double f(double x, double y)
 {
-	return sin(y + x) * sin(y - x);
+	return pow(cos(x), 4) + pow(sin(x), 2) + (1 / 4)*pow(sin(2 * x), 2) - 1;
 }

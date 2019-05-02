@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task1"
+    "\\Task4",
+    "\\Task5",
+    "\\Task6",
+    "\\Task7",
+    "\\Task8"
   ],
-  "SelectedNode": "\\CMakeLists.txt",
+  "SelectedNode": "\\Task7\\Task7_main.c",
   "PreviewInSolutionExplorer": false
 }
